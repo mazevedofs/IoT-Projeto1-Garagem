@@ -77,12 +77,12 @@ void setup ()
     }
     
     void AbrePortao() {
-      portao.write(90);
+      portao.write(110);
       delay(15);
     }
     
     void FechaPortao() {
-      portao.write(1);
+      portao.write(20);
       delay(15);
     }
 

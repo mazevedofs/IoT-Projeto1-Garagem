@@ -38,10 +38,3 @@ void AbrePortao() {
     delay(15);
   }
 }
-
-
-
-
-
-
-
